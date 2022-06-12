@@ -1,4 +1,8 @@
-# Vue 3 + TypeScript + Vite
+```
+
+```
+
+Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
@@ -16,3 +20,15 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
 
 # vite-project-admin
+
+分支切换
+
+git checkout 你的分支名字
+
+git add *   //上传所有的文件
+
+git status (查看文件状态，非必须，任何时候都可以通过这个命令查看)
+
+git commit -m "注释"
+git pull origin master（你要同步的分支）
+git push origin 分支名字
